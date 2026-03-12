@@ -1,14 +1,14 @@
 # Hi, I'm David 👋
 
-Self-taught developer based in Brazil, focused on local AI systems — building, fine-tuning, and running everything on consumer hardware.
+Self-taught developer based in Brazil, focused on local AI systems building, fine-tuning, and running everything on consumer hardware.
 
 ---
 
 ## What I'm working on
 
-- **Echo** — a personalized AI companion I've been developing since 2023. Fine-tuned on LFM2-8B-A1B using QLoRA, with RAG memory, a custom inference stack, and 14 iterations of training so far.
-- **Echo Multi-Mind** — a multi-agent debate system where multiple local models argue a topic and a judge model evaluates them. Built with Ollama, Flask, and a custom UI.
-- **Local AI infrastructure** — a complete local dev environment running Docker + Ollama + OpenWebUI, engineered to squeeze real performance out of a GTX 1650 4GB.
+- **Echo** a personalized AI companion I've been developing since 2023. Fine-tuned on LFM2-8B-A1B using QLoRA, with RAG memory, a custom inference stack, and 14 iterations of training so far.
+- **Echo Multi-Mind** a multi-agent debate system where multiple local models argue a topic and a judge model evaluates them. Built with Ollama, Flask, and a custom UI.
+- **Local AI infrastructure** a complete local dev environment running Docker + Ollama + OpenWebUI, engineered to squeeze real performance out of a GTX 1650 4GB.
 
 ---
 
